@@ -1,0 +1,26 @@
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\First WFA[A]\First WFA[A]\bin\Debug\First WFA[A].exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\First WFA[A]\First WFA[A]\bin\Debug\First WFA[A].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\First WFA[A]\First WFA[A]\bin\Debug\First WFA[A].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\First WFA[A]\First WFA[A]\obj\Debug\First WFA[A].csprojAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\First WFA[A]\First WFA[A]\obj\Debug\First_WFA_A_.MyForm.resources
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\First WFA[A]\First WFA[A]\obj\Debug\First_WFA_A_.Properties.Resources.resources
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\First WFA[A]\First WFA[A]\obj\Debug\First WFA[A].csproj.GenerateResource.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\First WFA[A]\First WFA[A]\obj\Debug\First WFA[A].csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\First WFA[A]\First WFA[A]\obj\Debug\First WFA[A].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\First WFA[A]\First WFA[A]\obj\Debug\First WFA[A].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\First WFA[A]\First WFA[A]\obj\Debug\First_WFA_A_.AnotherForm.resources
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\First WFA[A]\First WFA[A]\obj\Debug\First_WFA_A_.UserRegistration.resources
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\First WFA[A]\First WFA[A]\obj\Debug\First_WFA_A_.UserDataLoadForm.resources
+D:\versity doc\C# notes\class meterials\First WFA[A]\First WFA[A]\bin\Debug\First WFA[A].exe.config
+D:\versity doc\C# notes\class meterials\First WFA[A]\First WFA[A]\bin\Debug\First WFA[A].exe
+D:\versity doc\C# notes\class meterials\First WFA[A]\First WFA[A]\bin\Debug\First WFA[A].pdb
+D:\versity doc\C# notes\class meterials\First WFA[A]\First WFA[A]\obj\Debug\First WFA[A].csprojAssemblyReference.cache
+D:\versity doc\C# notes\class meterials\First WFA[A]\First WFA[A]\obj\Debug\First_WFA_A_.AnotherForm.resources
+D:\versity doc\C# notes\class meterials\First WFA[A]\First WFA[A]\obj\Debug\First_WFA_A_.MyForm.resources
+D:\versity doc\C# notes\class meterials\First WFA[A]\First WFA[A]\obj\Debug\First_WFA_A_.Properties.Resources.resources
+D:\versity doc\C# notes\class meterials\First WFA[A]\First WFA[A]\obj\Debug\First_WFA_A_.UserDataLoadForm.resources
+D:\versity doc\C# notes\class meterials\First WFA[A]\First WFA[A]\obj\Debug\First_WFA_A_.UserRegistration.resources
+D:\versity doc\C# notes\class meterials\First WFA[A]\First WFA[A]\obj\Debug\First WFA[A].csproj.GenerateResource.cache
+D:\versity doc\C# notes\class meterials\First WFA[A]\First WFA[A]\obj\Debug\First WFA[A].csproj.CoreCompileInputs.cache
+D:\versity doc\C# notes\class meterials\First WFA[A]\First WFA[A]\obj\Debug\First WFA[A].exe
+D:\versity doc\C# notes\class meterials\First WFA[A]\First WFA[A]\obj\Debug\First WFA[A].pdb
